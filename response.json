@@ -1,0 +1,3672 @@
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T19:27:18.384422Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741116629879,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "scenarioType": "OccupancyInArea",
+            "triggerTime": "2025-03-04T14:30:29.879-0500",
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T19:43:02.924469Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741117387788,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "",
+            "classTypes": "",
+            "triggerTime": "",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario825201722",
+    "timestamp": 1741117387789,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "",
+            "classTypes": "",
+            "triggerTime": "",
+            "scenarioType": "TailgatingDetection"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117387872,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:43:07.872-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117422472,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:43:42.472-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117423552,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:43:43.552-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T19:43:02.924469Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117493472,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:44:53.472-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741117499072,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "832",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T14:44:59.385-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117504272,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:45:04.272-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117506152,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:45:06.152-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741117506672,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "1180",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T14:45:06.672-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741117536575,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "1180",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T14:45:36.895-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117560152,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:46:00.152-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117561552,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:46:01.552-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741117596751,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "1520",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T14:46:36.751-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741117661611,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "1520",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T14:47:41.921-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T19:43:02.924469Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117561552,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:46:01.552-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117820991,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:50:20.991-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117822071,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:50:22.071-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117844871,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:50:44.871-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117845871,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:50:45.871-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117914271,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:51:54.271-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741117914591,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "4244",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T14:51:54.591-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117915391,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:51:55.391-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117920991,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:52:00.991-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741117923162,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "4244",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T14:52:03.477-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741117923471,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:52:03.471-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741117924191,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "4444",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T14:52:04.191-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741117952666,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "4444",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T14:52:32.986-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118114470,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:55:14.470-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118118270,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:55:18.270-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118134190,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:55:34.190-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118135270,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:55:35.270-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T19:43:02.924469Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118135270,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:55:35.270-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118185990,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:56:25.990-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118187070,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:56:27.070-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118188270,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:56:28.270-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118189470,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:56:29.470-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741118195190,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "5976",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T14:56:35.190-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741118202226,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "5976",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T14:56:42.539-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118242470,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:57:22.470-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118244070,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:57:24.070-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T19:43:02.924469Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118244070,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T14:57:24.070-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118451870,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:00:51.870-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118454470,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:00:54.470-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118455590,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:00:55.590-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118456670,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:00:56.670-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118465070,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:01:05.070-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741118466190,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "9204",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:01:06.190-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118466190,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:01:06.190-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118469070,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:01:09.070-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118472270,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:01:12.270-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118475190,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:01:15.190-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118476270,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:01:16.270-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118477390,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:01:17.390-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118478470,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:01:18.470-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118480790,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:01:20.790-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118482390,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:01:22.390-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741118503791,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "9204",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:01:44.103-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118507869,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:01:47.869-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118508989,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:01:48.989-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T19:43:02.924469Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118508989,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:01:48.989-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118626269,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:03:46.269-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118627269,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:03:47.269-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741118630389,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "10812",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:03:50.389-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741118638809,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "10812",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:03:59.130-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T19:43:02.924469Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118627269,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:03:47.269-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T19:43:02.924469Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118627269,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:03:47.269-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118875069,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:07:55.069-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118876189,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:07:56.189-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118889469,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:08:09.469-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118890469,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:08:10.469-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118891589,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:08:11.589-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118892669,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:08:12.669-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118899989,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:08:19.989-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118901069,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:08:21.069-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118903789,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:08:23.789-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118904869,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:08:24.869-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118909989,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:08:29.989-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118911069,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:08:31.069-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118928268,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:08:48.268-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118931468,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:08:51.468-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118932588,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:08:52.588-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118942468,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:09:02.468-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741118946188,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "12952",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:09:06.188-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741118958875,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "12952",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:09:19.198-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T19:43:02.924469Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741118942468,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:09:02.468-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119183188,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "15660",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:13:03.188-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119194388,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:13:14.388-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119195468,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:13:15.468-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119197668,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:13:17.668-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119198788,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:13:18.788-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119199438,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "15660",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:13:19.749-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119204788,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:13:24.788-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119205988,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:13:25.988-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119223868,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:13:43.868-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119233788,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:13:53.788-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119238268,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "16384",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:13:58.268-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119246951,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "16384",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:14:07.261-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119259868,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:14:19.868-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119260988,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:14:20.988-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119264188,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:14:24.188-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119265268,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:14:25.268-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119266268,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:14:26.268-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119268988,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:14:28.988-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119269468,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "16692",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:14:29.468-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119286959,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "16692",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:14:47.270-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119353388,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:15:53.388-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119354388,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:15:54.388-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119356068,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:15:56.068-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119357188,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:15:57.188-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119357868,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "17812",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:15:57.868-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119369979,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "17812",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:16:10.290-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119385267,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:16:25.267-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119386387,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:16:26.387-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119404987,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:16:44.987-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119409067,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:16:49.067-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119410187,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:16:50.187-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119412987,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:16:52.987-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119414387,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:16:54.387-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119416467,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:16:56.467-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119418187,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:16:58.187-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119419067,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "18676",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:16:59.067-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119419187,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:16:59.187-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119445489,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "18676",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:17:25.807-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119471587,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:17:51.587-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119472587,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:17:52.587-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119473667,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:17:53.667-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119475667,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:17:55.667-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119476667,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:17:56.667-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119477787,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:17:57.787-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119479667,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:17:59.667-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119480787,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:18:00.787-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119485787,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:18:05.787-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119487667,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:18:07.667-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119488787,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:18:08.787-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119491787,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:18:11.787-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119491867,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "19404",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:18:11.867-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119503501,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "19404",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:18:23.821-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T19:43:02.924469Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119491787,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:18:11.787-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119558467,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:18.467-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119559587,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:19.587-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119560667,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:20.667-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119561787,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:21.787-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119562867,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:22.867-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119563987,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:23.987-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119565067,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:25.067-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119566587,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:26.587-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119567667,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:27.667-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119568787,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:28.787-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119569787,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:29.787-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119570587,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "20560",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:19:30.587-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119574987,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:34.987-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119577267,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:37.267-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119582787,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:42.787-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119583867,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:43.867-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741119596536,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "20560",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:19:56.844-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T19:43:02.924469Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119583867,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:43.867-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T19:43:02.924469Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741119583867,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:19:43.867-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T20:34:59.258205Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120463985,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:34:23.985-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120522265,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:22.265-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120523665,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:23.665-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120524785,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:24.785-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120525985,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:25.985-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741120526985,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "27212",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:35:26.985-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741120535738,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "27212",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:35:36.059-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120540985,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:40.985-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120543665,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:43.665-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120544785,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:44.785-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120545865,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:45.865-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120546985,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:46.985-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120548065,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:48.065-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120549585,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:49.585-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120550665,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:50.665-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120551785,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:51.785-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120552985,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:52.985-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120554065,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:54.065-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120558265,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:58.265-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120559385,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:35:59.385-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120562185,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:36:02.185-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120563265,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:36:03.265-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741120563585,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "27864",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:36:03.585-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741120576761,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "27864",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:36:17.072-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T20:34:59.258205Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120563265,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:36:03.265-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120834064,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:40:34.064-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120835384,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:40:35.384-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120836784,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:40:36.784-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120838064,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:40:38.064-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741120838184,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "29264",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:40:38.184-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120844264,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:40:44.264-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120845784,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:40:45.784-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741120850820,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "29264",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:40:51.133-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120853584,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "3",
+            "total": "3",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:40:53.584-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120854664,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:40:54.664-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741120855464,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "29264",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:40:55.464-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741120859064,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:40:59.064-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741120866319,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "29264",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:41:06.639-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121061784,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:44:21.784-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121064584,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:44:24.584-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121084784,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:44:44.784-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121108184,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:45:08.184-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T20:34:59.258205Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121108184,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:45:08.184-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121152663,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:45:52.663-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121154863,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:45:54.863-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121155983,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:45:55.983-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741121156583,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "31444",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:45:56.583-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121157063,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:45:57.063-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741121165891,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "31444",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:46:06.204-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121176263,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:46:16.263-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121179983,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:46:19.983-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121181783,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:46:21.783-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121187463,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:46:27.463-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121188463,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:46:28.463-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121192663,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:46:32.663-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121193783,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:46:33.783-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121197783,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:46:37.783-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121199663,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:46:39.663-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121200663,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:46:40.663-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121203383,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:46:43.383-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741121204263,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "1",
+            "objectId": "32224",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:46:44.263-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121204463,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:46:44.463-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario1986424845",
+    "timestamp": 1741121212406,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "active": "0",
+            "objectId": "32224",
+            "classTypes": "human",
+            "triggerTime": "2025-03-04T15:46:52.717-0500",
+            "scenarioType": "LineCrossing"
+        }
+    }
+}
+{
+    "serialNumber": "B8A44FA146EE",
+    "timestamp": "2025-03-04T20:34:59.258205Z",
+    "connected": true,
+    "description": "Connected"
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121204463,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:46:44.463-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121501983,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:51:41.983-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121505783,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:51:45.783-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121506863,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:51:46.863-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121507983,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:51:47.983-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121509863,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:51:49.863-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121515663,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:51:55.663-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121516783,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:51:56.783-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121517983,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:51:57.983-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121519063,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:51:59.063-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121520863,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:52:00.863-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121521983,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "3",
+            "total": "3",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:52:01.983-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121523663,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "2",
+            "total": "2",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:52:03.663-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121526983,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "3",
+            "total": "3",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:52:06.983-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121528063,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "1",
+            "total": "1",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:52:08.063-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
+{
+    "topic": "axis:CameraApplicationPlatform/ObjectAnalytics/Device1Scenario852405040",
+    "timestamp": 1741121531263,
+    "message": {
+        "source": {},
+        "key": {},
+        "data": {
+            "human": "0",
+            "total": "0",
+            "scenario": "Scenario 1",
+            "triggerTime": "2025-03-04T15:52:11.263-0500",
+            "scenarioType": "OccupancyInArea"
+        }
+    }
+}
